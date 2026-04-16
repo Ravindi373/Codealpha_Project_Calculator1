@@ -25,7 +25,3 @@ You can view the live demo here: [Calculator Demo](https://[your-username].githu
 1. Clone the repository
 2. Open `index.html` in your web browser
 3. Start calculating!
-
-## Screenshot
-
-(Add a screenshot of your calculator here after hosting) 
