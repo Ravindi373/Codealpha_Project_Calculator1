@@ -18,7 +18,7 @@ A clean and modern calculator web application built with HTML, CSS, and JavaScri
 
 ## Live Demo
 
-You can view the live demo here: [Calculator Demo](https://[your-username].github.io/calculator/)
+You can view the live demo here: [Calculator Demo](https://ravindi373.github.io/Codealpha_Project_Calculator1/)
 
 ## How to Use
 
